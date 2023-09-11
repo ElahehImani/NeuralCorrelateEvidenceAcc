@@ -1,0 +1,3 @@
+https://github.com/davidzoltowski/ssm
+https://github.com/davidzoltowski/ssmdm
+https://github.com/machenslab/dPCA
