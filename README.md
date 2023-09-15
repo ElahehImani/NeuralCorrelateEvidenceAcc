@@ -1,4 +1,5 @@
 This repository contains the source code of the following paper:
+
 Imani, E., Radkani, S., Hashemi, A., Harati, A., Pourreza, H., & Goudarzi, M. M. (2022). Distributed coding of evidence accumulation 
 across the mouse brain using microcircuits with a diversity of timescales. bioRxiv, 2022-09.
 
