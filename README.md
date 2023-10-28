@@ -1,8 +1,8 @@
 This repository contains the source code of the following paper:
 
-Imani, E., Radkani, S., Hashemi, A., Harati, A., Pourreza, H., & Goudarzi, M. M. (2022). Distributed coding of evidence accumulation 
-across the mouse brain using microcircuits with a diversity of timescales. bioRxiv, 2022-09.
-
+Imani, Elaheh, Setayesh Radkani, Alireza Hashemi, Ahad Harati, Hamidreza Pourreza, and Morteza Moazami Goudarzi. 
+"Distributed coding of evidence accumulation across the mouse brain using microcircuits with a diversity of timescales." eNeuro (2023).
+ 
 pipeline of the scripts:
 dPCA analysis:
 1) run averageRate.m to compute average firing rate
